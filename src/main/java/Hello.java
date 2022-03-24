@@ -17,5 +17,6 @@ public class Hello {
         List<String> list=new ArrayList<>();
         list.add("sukhi");
         list.add("kaur");
+        list.add("Baajveer");
     }
 }
