@@ -15,7 +15,7 @@ public class Hello {
             System.out.println(s.toUpperCase(Locale.ROOT));
         }
         List<String> list=new ArrayList<>();
-        list.add("sukhi");
+        list.add("sukhvinder");
         list.add("kaur");
         list.add("Baajveer");
         list.add("Singh");
