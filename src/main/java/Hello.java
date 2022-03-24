@@ -20,5 +20,6 @@ public class Hello {
         list.add("Baajveer");
         list.add("Singh");
         System.out.println(list);
+        System.out.println("Hello");
     }
 }
