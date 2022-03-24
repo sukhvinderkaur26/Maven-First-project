@@ -18,5 +18,7 @@ public class Hello {
         list.add("sukhi");
         list.add("kaur");
         list.add("Baajveer");
+        list.add("Singh");
+        System.out.println(list);
     }
 }
